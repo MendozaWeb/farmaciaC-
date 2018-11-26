@@ -1,0 +1,87 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace frm_login
+{
+    public partial class Form3 : Form
+    {
+        public Form3()
+        {
+            InitializeComponent();
+
+        }
+
+        private void btnpac_Click(object sender, EventArgs e)
+        {
+            //left eje x
+            pbpacman.Left = pbpacman.Left + 10;
+            if (pbpacman.Left >= 750)
+            {
+                pbpacman.Left = 0;
+            }
+
+        }
+
+        private void btnizq_Click(object sender, EventArgs e)
+        {
+            pbpacman.Left = pbpacman.Left - 10;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            pbpacman.Top = pbpacman.Top - 10;
+        }
+
+        private void btnaba_Click(object sender, EventArgs e)
+        {
+            pbpacman.Top = pbpacman.Top + 10;
+        }
+
+        private void Form3_Load(object sender, EventArgs e)
+        {
+
+           
+        }
+
+        private void pbpacman_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pbpacman_PreviewKeyDown(object sender, PreviewKeyDownEventArgs e)
+        {
+            
+        }
+
+        private void Form3_KeyDown(object sender, KeyEventArgs e)
+        {
+            switch (e.KeyCode)
+            {
+                case Keys.Up:
+                    pbpacman.Top = pbpacman.Top - 10;
+                    break;
+                //pbpacman.Top -= 10;
+
+                case Keys.Down:
+                    pbpacman.Top = pbpacman.Top + 10;
+                    break;
+
+                case Keys.Left:
+                    pbpacman.Left = pbpacman.Left - 10;
+                    break;
+
+                case Keys.Right:
+                    pbpacman.Left = pbpacman.Left + 10;
+                    break;
+
+            }
+        }
+    }
+}

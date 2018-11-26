@@ -1,0 +1,639 @@
+C:\Users\Administrador\Desktop\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe.config
+C:\Users\Administrador\Desktop\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe
+C:\Users\Administrador\Desktop\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.pdb
+C:\Users\Administrador\Desktop\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.dll
+C:\Users\Administrador\Desktop\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.dll
+C:\Users\Administrador\Desktop\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.pdb
+C:\Users\Administrador\Desktop\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.pdb
+C:\Users\Administrador\Desktop\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Form1.resources
+C:\Users\Administrador\Desktop\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Administrador\Desktop\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.exe
+C:\Users\Administrador\Desktop\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.pdb
+C:\Users\Administrador\Desktop\21-09-17\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe.config
+C:\Users\Administrador\Desktop\21-09-17\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.exe
+C:\Users\Administrador\Desktop\21-09-17\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.pdb
+C:\Users\Administrador\Desktop\21-09-17\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe
+C:\Users\Administrador\Desktop\21-09-17\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.pdb
+C:\Users\Administrador\Desktop\21-09-17\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.dll
+C:\Users\Administrador\Desktop\21-09-17\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.dll
+C:\Users\Administrador\Desktop\21-09-17\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.pdb
+C:\Users\Administrador\Desktop\21-09-17\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.pdb
+C:\Users\Administrador\Desktop\21-09-17\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\21-09-17\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Form1.resources
+C:\Users\Administrador\Desktop\21-09-17\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Administrador\Desktop\21-09-17\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\21-09-17\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Form2.resources
+F:\21-09-17.V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe.config
+F:\21-09-17.V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe
+F:\21-09-17.V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.pdb
+F:\21-09-17.V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.dll
+F:\21-09-17.V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.dll
+F:\21-09-17.V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.pdb
+F:\21-09-17.V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.pdb
+F:\21-09-17.V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+F:\21-09-17.V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Form1.resources
+F:\21-09-17.V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Form2.resources
+F:\21-09-17.V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Properties.Resources.resources
+F:\21-09-17.V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+F:\21-09-17.V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.exe
+F:\21-09-17.V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.pdb
+C:\Users\Admin\Desktop\21-09-17.V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe.config
+C:\Users\Admin\Desktop\21-09-17.V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.exe
+C:\Users\Admin\Desktop\21-09-17.V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.pdb
+C:\Users\Admin\Desktop\21-09-17.V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe
+C:\Users\Admin\Desktop\21-09-17.V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.pdb
+C:\Users\Admin\Desktop\21-09-17.V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.dll
+C:\Users\Admin\Desktop\21-09-17.V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.dll
+C:\Users\Admin\Desktop\21-09-17.V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.pdb
+C:\Users\Admin\Desktop\21-09-17.V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.pdb
+C:\Users\Admin\Desktop\21-09-17.V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\21-09-17.V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Form1.resources
+C:\Users\Admin\Desktop\21-09-17.V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Form2.resources
+C:\Users\Admin\Desktop\21-09-17.V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Admin\Desktop\21-09-17.V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe.config
+C:\Users\Admin\Desktop\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.exe
+C:\Users\Admin\Desktop\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.pdb
+C:\Users\Admin\Desktop\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe
+C:\Users\Admin\Desktop\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.pdb
+C:\Users\Admin\Desktop\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.dll
+C:\Users\Admin\Desktop\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.dll
+C:\Users\Admin\Desktop\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.pdb
+C:\Users\Admin\Desktop\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.pdb
+C:\Users\Admin\Desktop\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Form1.resources
+C:\Users\Admin\Desktop\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Form2.resources
+C:\Users\Admin\Desktop\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Admin\Desktop\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+G:\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe.config
+G:\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.exe
+G:\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.pdb
+C:\Users\Admin\Desktop\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Form3.resources
+G:\27-09-2017\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe.config
+G:\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.exe
+G:\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.pdb
+C:\Users\Admin\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe.config
+C:\Users\Admin\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.exe
+C:\Users\Admin\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.pdb
+C:\Users\Admin\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Form1.resources
+C:\Users\Admin\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Form2.resources
+C:\Users\Admin\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Form3.resources
+C:\Users\Admin\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Admin\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe
+C:\Users\Admin\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.pdb
+C:\Users\Admin\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.dll
+C:\Users\Admin\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.dll
+C:\Users\Admin\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.pdb
+C:\Users\Admin\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.pdb
+C:\Users\Admin\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Form4.resources
+C:\Users\Alumno\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe.config
+C:\Users\Alumno\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.exe
+C:\Users\Alumno\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.pdb
+C:\Users\Alumno\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe
+C:\Users\Alumno\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.pdb
+C:\Users\Alumno\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.dll
+C:\Users\Alumno\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.dll
+C:\Users\Alumno\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.pdb
+C:\Users\Alumno\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.pdb
+C:\Users\Alumno\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Form1.resources
+C:\Users\Alumno\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Form2.resources
+C:\Users\Alumno\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Form3.resources
+C:\Users\Alumno\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Form4.resources
+C:\Users\Alumno\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Form5.resources
+C:\Users\Alumno\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Alumno\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe.config
+C:\Users\Administrador\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.exe
+C:\Users\Administrador\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.pdb
+C:\Users\Administrador\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe
+C:\Users\Administrador\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.pdb
+C:\Users\Administrador\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.dll
+C:\Users\Administrador\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.dll
+C:\Users\Administrador\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.pdb
+C:\Users\Administrador\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.pdb
+C:\Users\Administrador\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Form1.resources
+C:\Users\Administrador\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Form2.resources
+C:\Users\Administrador\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Form3.resources
+C:\Users\Administrador\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Form4.resources
+C:\Users\Administrador\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Form5.resources
+C:\Users\Administrador\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Administrador\Desktop\27-09-2017\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+F:\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe.config
+F:\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.exe
+F:\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.pdb
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe.config
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.exe
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.pdb
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.pdb
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.dll
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.dll
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.pdb
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.pdb
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmPresentacion.resources
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmMain.resources
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmCliente.resources
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmDistrito.resources
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmProveedor.resources
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmProducto.resources
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmCategoria.resources
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmLogin.resources
+C:\Users\PC8X64\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe.config
+C:\Users\PC8X64\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.exe
+C:\Users\PC8X64\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.pdb
+C:\Users\PC8X64\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe
+C:\Users\PC8X64\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.pdb
+C:\Users\PC8X64\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.dll
+C:\Users\PC8X64\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.dll
+C:\Users\PC8X64\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.pdb
+C:\Users\PC8X64\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.pdb
+C:\Users\PC8X64\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\PC8X64\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmCliente.resources
+C:\Users\PC8X64\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmDistrito.resources
+C:\Users\PC8X64\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmProveedor.resources
+C:\Users\PC8X64\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmProducto.resources
+C:\Users\PC8X64\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmCategoria.resources
+C:\Users\PC8X64\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmLogin.resources
+C:\Users\PC8X64\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmMain.resources
+C:\Users\PC8X64\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmPresentacion.resources
+C:\Users\PC8X64\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\PC8X64\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.RFrmCliente.resources
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\RdlCompile.compiled
+G:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe.config
+G:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.exe
+G:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.pdb
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe.config
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.exe
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.pdb
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.pdb
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.dll
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.dll
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.pdb
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.pdb
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmCliente.resources
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmDistrito.resources
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmProveedor.resources
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmProducto.resources
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmCategoria.resources
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmLogin.resources
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmMain.resources
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmPresentacion.resources
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Properties.Resources.resources
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.RFrmCliente.resources
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\RdlCompile.cache
+E:\Nueva carpeta\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\RdlCompile.compiled
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe.config
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.pdb
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.dll
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.dll
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.pdb
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.pdb
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmCliente.resources
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmDistrito.resources
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmProveedor.resources
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmProducto.resources
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmCategoria.resources
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmLogin.resources
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmMain.resources
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmPresentacion.resources
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.RFrmCliente.resources
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\RdlCompile.cache
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\RdlCompile.compiled
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.exe
+C:\Users\Administrador\Desktop\VBAD\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.pdb
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe.config
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.exe
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.pdb
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.pdb
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.dll
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.dll
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.pdb
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.pdb
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmBoleta.resources
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmCliente.resources
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmDistrito.resources
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmAdmin2.resources
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmProveedor.resources
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmProducto.resources
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmCategoria.resources
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmLogin.resources
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmAdmin.resources
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmPresentacion.resources
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.RFrmCliente.resources
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\RdlCompile.cache
+C:\Users\Administrador\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\RdlCompile.compiled
+G:\Nueva carpeta\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe.config
+G:\Nueva carpeta\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.exe
+G:\Nueva carpeta\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.pdb
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe.config
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.exe
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.pdb
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.pdb
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.dll
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.dll
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.pdb
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.pdb
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmBoleta.resources
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmCliente.resources
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmDistrito.resources
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmAdmin2.resources
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmProveedor.resources
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmProducto.resources
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmCategoria.resources
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmLogin.resources
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmAdmin.resources
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmPresentacion.resources
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.RFrmCliente.resources
+C:\Users\Admin\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe.config
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.exe
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.pdb
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.pdb
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.dll
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.dll
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.pdb
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.pdb
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmBoleta.resources
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmCliente.resources
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmDistrito.resources
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmAdmin2.resources
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmProveedor.resources
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmProducto.resources
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmCategoria.resources
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmLogin.resources
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmAdmin.resources
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmPresentacion.resources
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.RFrmCliente.resources
+C:\Users\Alumno\Desktop\VBAD.1\27-09-2017V2\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+G:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe.config
+G:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.exe
+G:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.pdb
+G:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe
+G:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.pdb
+G:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.dll
+G:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.dll
+G:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.pdb
+G:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.pdb
+G:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+G:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+G:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+G:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+G:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+G:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+G:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+G:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+G:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+G:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+G:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+G:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmBoleta.resources
+G:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmCliente.resources
+G:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmDistrito.resources
+G:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmAdmin2.resources
+G:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmProveedor.resources
+G:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmProducto.resources
+G:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmCategoria.resources
+G:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmLogin.resources
+G:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmAdmin.resources
+G:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmPresentacion.resources
+G:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Properties.Resources.resources
+G:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.RFrmCliente.resources
+G:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+H:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe.config
+H:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.exe
+H:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.pdb
+E:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe.config
+E:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.exe
+E:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.pdb
+C:\Users\Admin\Desktop\123\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe.config
+C:\Users\Admin\Desktop\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.exe
+C:\Users\Admin\Desktop\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.pdb
+E:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+E:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmDistrito.resources
+E:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmProveedor.resources
+E:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmProducto.resources
+E:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmCategoria.resources
+E:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmLogin.resources
+E:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmAdmin.resources
+E:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmPresentacion.resources
+E:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Properties.Resources.resources
+E:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+E:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\RdlCompile.cache
+E:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\RdlCompile.compiled
+E:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe
+E:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.pdb
+E:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.dll
+E:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.dll
+E:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.pdb
+E:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.pdb
+E:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+F:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe.config
+F:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.exe
+F:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.pdb
+F:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.exe
+F:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\Vista.pdb
+F:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.dll
+F:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.dll
+F:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\Controlador.pdb
+F:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\Modelo.pdb
+F:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+F:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+F:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+F:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+F:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+F:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+F:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+F:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+F:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\123\SISTEMA_VENTAS_C\Vista\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+F:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+F:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmDistrito.resources
+F:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmProveedor.resources
+F:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmProducto.resources
+F:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmCategoria.resources
+F:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmLogin.resources
+F:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmAdmin.resources
+F:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.FrmPresentacion.resources
+F:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.Properties.Resources.resources
+F:\123\SISTEMA_VENTAS_C\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+F:\123\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Vista.exe.config
+F:\123\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.exe
+F:\123\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.pdb
+F:\123\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Vista.exe
+F:\123\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Vista.pdb
+F:\123\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Controlador.dll
+F:\123\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Modelo.dll
+F:\123\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\123\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Controlador.pdb
+F:\123\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Modelo.pdb
+F:\123\SISTEMA_FARMACEUTICO\Vista\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+F:\123\SISTEMA_FARMACEUTICO\Vista\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+F:\123\SISTEMA_FARMACEUTICO\Vista\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+F:\123\SISTEMA_FARMACEUTICO\Vista\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+F:\123\SISTEMA_FARMACEUTICO\Vista\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+F:\123\SISTEMA_FARMACEUTICO\Vista\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+F:\123\SISTEMA_FARMACEUTICO\Vista\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+F:\123\SISTEMA_FARMACEUTICO\Vista\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+F:\123\SISTEMA_FARMACEUTICO\Vista\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\123\SISTEMA_FARMACEUTICO\Vista\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+F:\123\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+F:\123\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmDistrito.resources
+F:\123\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmProveedor.resources
+F:\123\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmProducto.resources
+F:\123\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmCategoria.resources
+F:\123\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmLogin.resources
+F:\123\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmAdmin.resources
+F:\123\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmPresentacion.resources
+F:\123\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.Properties.Resources.resources
+F:\123\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+G:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Vista.exe.config
+G:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.exe
+G:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.pdb
+G:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Vista.exe
+G:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Vista.pdb
+G:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Controlador.dll
+G:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Modelo.dll
+G:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Controlador.pdb
+G:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Modelo.pdb
+G:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+G:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+G:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+G:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+G:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+G:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+G:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+G:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+G:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+G:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+G:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+G:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmDistrito.resources
+G:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmProveedor.resources
+G:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmProducto.resources
+G:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmCategoria.resources
+G:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmLogin.resources
+G:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmAdmin.resources
+G:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmPresentacion.resources
+G:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.Properties.Resources.resources
+G:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+F:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Vista.exe.config
+F:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Vista.exe
+F:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Vista.pdb
+F:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Controlador.dll
+F:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Modelo.dll
+F:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Controlador.pdb
+F:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Modelo.pdb
+F:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+F:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+F:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+F:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+F:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+F:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+F:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+F:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+F:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+F:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+F:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmDistrito.resources
+F:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmProveedor.resources
+F:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmProducto.resources
+F:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmCategoria.resources
+F:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmLogin.resources
+F:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmAdmin.resources
+F:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmPresentacion.resources
+F:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.Properties.Resources.resources
+F:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+F:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.exe
+F:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.pdb
+F:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FormSalida.resources
+F:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FormRegUsuario.resources
+F:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FormPrincipal.resources
+H:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Vista.exe.config
+H:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.exe
+H:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.pdb
+H:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Vista.exe
+H:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Vista.pdb
+H:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Controlador.dll
+H:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Modelo.dll
+H:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Microsoft.SqlServer.Types.dll
+H:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Controlador.pdb
+H:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Modelo.pdb
+H:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+H:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+H:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+H:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+H:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+H:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+H:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+H:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+H:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+H:\SISTEMA_FARMACEUTICO\Vista\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+H:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+H:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FormPrincipal.resources
+H:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FormRegUsuario.resources
+H:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FormSalida.resources
+H:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmDistrito.resources
+H:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmProveedor.resources
+H:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmProducto.resources
+H:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmCategoria.resources
+H:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmLogin.resources
+H:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmAdmin.resources
+H:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmPresentacion.resources
+H:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.Properties.Resources.resources
+H:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+H:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmEntrada.resources
+G:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FormPrincipal.resources
+G:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FormRegUsuario.resources
+G:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FormSalida.resources
+G:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmEntrada.resources
+F:\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmEntrada.resources
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Vista.exe.config
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.exe
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.pdb
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Vista.exe
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Vista.pdb
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Controlador.dll
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Modelo.dll
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Controlador.pdb
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\bin\Debug\Modelo.pdb
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FormPrincipal.resources
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FormRegUsuario.resources
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FormSalida.resources
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmDistrito.resources
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmEntrada.resources
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmProveedor.resources
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmProducto.resources
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmCategoria.resources
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmLogin.resources
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmAdmin.resources
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.FrmPresentacion.resources
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\PC\Desktop\C# trabajos\otros proyectos\SISTEMA_FARMACEUTICO\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
